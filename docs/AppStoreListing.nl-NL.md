@@ -14,15 +14,17 @@ vitamine,mineralen,tekort,cronometer,myfitnesspal,calorieën,keto,veganistisch,m
 ## Promotional Text (157/170 chars)
 Carnivoor, keto of paleo? Zie welke vitamines en mineralen je voeding mist, vanaf je eerste volledig gelogde dag. Zonder advertenties, offline, geen account.
 
-## Description
+## Description (3944/4000)
 Nutrient Logger is de offline-first voedingstracker voor iedereen die wil weten wat er écht in hun eten zit — niet alleen calorieën en macro's, maar het volledige spectrum aan vitaminen, mineralen en aminozuren dat je lichaam nodig heeft.
+
+Eet je carnivoor, keto of paleo? Wie hele productgroepen schrapt, schrapt ook hun vitaminen en mineralen. Na je eerste volledig gelogde dag noemt Nutrient Logger welke je tekortkomt — zoals vitamine C en magnesium bij carnivoor, of calcium en vitamine D bij paleo — zodat je ze met eten kunt aanvullen.
 
 Anders dan cloudtrackers verlaat je voedingsdagboek nooit je toestel — geen account, geen cloud en geen advertenties. En anders dan macro-gerichte apps splitst elke invoer 80+ voedingsstoffen uit, zodat je tekorten opmerkt voordat het echte gebreken worden.
 
 Belangrijkste functies:
 
 * Vanaf dag één op jou afgestemd
-Vertel ons hoe je eet — gevarieerd, plantaardig, keto of koolhydraatarm, carnivoor of pescotarisch — en waar je het meest op let, van energie tot je botten en gewrichten. Nutrient Logger zet de voedingsstoffen die je het snelst tekortkomt bovenaan je Voeding-tabblad, zodat je als eerste ziet wat voor jou telt. Je antwoorden kun je altijd aanpassen in de instellingen.
+Vertel ons hoe je eet — gevarieerd, plantaardig, keto of koolhydraatarm, carnivoor, paleo of pescotarisch — en waar je het meest op let, van energie tot je botten en gewrichten. Nutrient Logger zet de voedingsstoffen die je het snelst tekortkomt bovenaan je Voeding-tabblad, zodat je als eerste ziet wat voor jou telt. Je antwoorden kun je altijd aanpassen in de instellingen.
 
 * Gedetailleerd voedingsstoffenoverzicht
 Bekijk je dagelijkse inname van macro- en micronutriënten, van eiwit en vezels tot magnesium en vitamine B12. Kies welke voedingsstoffen voor jou tellen, zet ze in je eigen volgorde en bepaal hoeveel elke groep in één oogopslag toont, voor een Voeding-tabblad dat bij je doelen past.
@@ -34,39 +36,37 @@ Scan elk verpakt product en haal direct de voedingswaarden binnen. Barcode niet 
 Zoek in tienduizenden producten, van verse ingrediënten tot verpakte artikelen, en log je maaltijden nauwkeurig. De slimme zoekfunctie begrijpt wat je bedoelt en vindt meteen het juiste product.
 
 * Bewaarde maaltijden
-Bewaar de maaltijden die je vaak eet en log ze de volgende keer met één tik.
+Bewaar de maaltijden die je vaak eet en log ze opnieuw met één tik. Kook je in grote hoeveelheden? Voeg het hele recept toe, geef aan hoeveel porties het oplevert en log het per portie.
 
 * Persoonlijke doelen
-Stel je eigen doelen in voor calorieën, macro's en micronutriënten — en je eigen bovengrenzen, om natrium, of elke andere voedingsstof, precies te begrenzen waar jij wilt. Of gebruik aanbevolen dagwaarden op basis van leeftijd en geslacht, en volg je voortgang met trendgrafieken voor calorieën, macro's en water naast elke voedingsstof.
+Stel je eigen doelen in voor calorieën, macro's en micronutriënten — en je eigen bovengrenzen, om natrium, of elke andere voedingsstof, precies te begrenzen waar jij wilt. Of gebruik aanbevolen dagwaarden op basis van leeftijd en geslacht.
 
 * Water bijhouden
-Log water met één tik en zie de tracker vollopen richting je dagdoel. Bekijk je hydratatietrends over 7 of 30 dagen (Premium).
+Log water met één tik en zie de tracker vollopen richting je dagdoel. Bekijk je hydratatietrends over 7 of 30 dagen.
 
-* Lichaamswaarden & doelen (Premium)
+* Lichaamswaarden & doelen
 Volg gewicht, vetpercentage, BMI en tailleomvang — kies wat voor jou telt. Stel een doel met deadline in en Nutrient Logger berekent het benodigde tempo, projecteert je koers en bepaalt een caloriedoel op basis van BMR/TDEE.
 
-* Streaks & prestaties
-Bouw een dagelijkse log-streak en een wekelijkse lichaams-streak op, met mijlpaalvieringen onderweg.
-
-* Trendgrafieken per voedingsstof (Premium)
+* Trendgrafieken per voedingsstof
 Zie hoe je inname van elke voedingsstof verandert over 7 of 30 dagen. Herken patronen en vergelijk met je dagdoel — de statistieken tellen alleen de dagen die je echt hebt gelogd.
 
-* Wekelijkse voedingscheck (Premium)
+* Wekelijkse voedingscheck
 Een wekelijks overzicht markeert de voedingsstoffen waar je te weinig van binnenkreeg, met producten die het gat dichten. Het bewaakt ook je verhoudingen Omega-6 : Omega-3, Natrium : Kalium, Zink : Koper en Calcium : Magnesium, en noemt de producten achter de scheve.
 
-* Apple Gezondheid-synchronisatie (Premium)
+* Apple Gezondheid-synchronisatie
 Schrijf je dagelijkse calorieën, eiwit, vet, koolhydraten en water automatisch naar Apple Gezondheid. Importeer je gewicht uit Gezondheid en houd alles op één plek.
 
-* CSV-export (Premium)
-Exporteer je volledige voedingsdagboek met voedingsstofdata voor elke periode — ideaal om te delen met arts of diëtist.
+Nutrient Logger is voor iedereen die voeding serieus neemt: met een specifiek dieet, een tekort in de gaten of gewoon uit nieuwsgierigheid.
 
-* Leer terwijl je logt
-Ontdek wat elke voedingsstof voor je lichaam doet en waarom die belangrijk is voor je gezondheid.
-
-Nutrient Logger is perfect voor iedereen die voeding serieus neemt — of je nu een specifiek dieet volgt, een tekort in de gaten houdt of gewoon nieuwsgierig bent naar je gezondheid. Tijd om verder te kijken dan calorieën en je eten echt te begrijpen.
-
+Trendgrafieken, de wekelijkse voedingscheck, Apple Gezondheid-synchronisatie, gewichtsdoelen en je eigen doelen voor vitaminen en mineralen horen bij Premium, een optioneel abonnement.
 
 * Apple-gebruiksvoorwaarden: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
+
+## What's New (v4.6)
+• Nieuw hier? In je eerste week noemt de herinnering 's avonds de maaltijd die vandaag nog ontbreekt — één volledig gelogde dag laat zien wat je voeding mist
+• Loggen voelt beter: een korte trilling als een product is opgeslagen, een groene flits als een voedingsstof haar doel haalt, en een plons als je je waterdoel bereikt
+• Sluit een tekort in het weekoverzicht, dan wordt het groen voordat het uit de lijst verdwijnt
+• Je samenvatting van de eerste dag toont je tekorten één voor één, en een herhaalde maaltijd vult zich product voor product
 
 ## What's New (v4.5)
 • Na je eerste volledig gelogde dag zie je welke vitamines en mineralen je het meest tekortkomt — en welke daarvan bij jouw voeding vaak ontbreken

@@ -14,15 +14,17 @@ vitamine,minerali,carenza,cronometer,myfitnesspal,calorie,keto,vegano,macro,nutr
 ## Promotional Text (166/170 chars)
 Carnivora, keto o paleo? Scopri quali vitamine e minerali mancano alla tua dieta dal primo giorno completo di registrazione. Senza pubblicità, offline, senza account.
 
-## Description
+## Description (3980/4000)
 Nutrient Logger è il tracker nutrizionale offline-first per chi vuole sapere cosa c'è davvero nel proprio cibo — non solo calorie e macro, ma l'intero spettro di vitamine, minerali e amminoacidi di cui il tuo corpo ha bisogno.
+
+Dieta carnivora, keto o paleo? Eliminare interi gruppi di alimenti significa perdere anche le loro vitamine e minerali. Dopo il tuo primo giorno completo di registrazione, Nutrient Logger indica quelli che ti mancano: vitamina C e magnesio nella carnivora, calcio e vitamina D nella paleo.
 
 A differenza dei tracker basati sul cloud, il tuo diario alimentare non lascia mai il tuo dispositivo — nessun account, nessun cloud, nessuna pubblicità. E a differenza delle app concentrate sui macro, ogni voce analizza oltre 80 nutrienti, così puoi individuare le lacune prima che diventino carenze.
 
 Funzionalità principali:
 
 * Personalizzata fin dal primo giorno
-Dicci come mangi — equilibrato, vegetale, keto o low-carb, carnivoro o pescetariano — e cosa ti sta più a cuore, dall'energia a ossa e articolazioni. Nutrient Logger porta in cima alla tua scheda Nutrizione i nutrienti che rischi di più di trascurare. Puoi cambiare le risposte quando vuoi dalle impostazioni.
+Dicci come mangi — equilibrato, vegetale, keto o low-carb, carnivoro, paleo o pescetariano — e cosa ti sta più a cuore, dall'energia a ossa e articolazioni. Nutrient Logger porta in cima alla tua scheda Nutrizione i nutrienti che rischi di più di trascurare. Puoi cambiare le risposte quando vuoi dalle impostazioni.
 
 * Analisi nutrizionale dettagliata
 Guarda il tuo apporto giornaliero di macro e micronutrienti, dalle proteine e fibre fino a magnesio e vitamina B12. Scegli i nutrienti che contano per te, riordinali e decidi quanti ne mostra ogni gruppo, per una scheda Nutrizione su misura.
@@ -34,39 +36,37 @@ Scansiona qualsiasi alimento confezionato per ottenere subito i suoi dati nutriz
 Cerca tra decine di migliaia di alimenti, ingredienti freschi e prodotti confezionati, per registrare i pasti con precisione. La ricerca intelligente trova subito l'alimento giusto.
 
 * Pasti salvati
-Salva i pasti che ripeti e registrali di nuovo con un solo tocco.
+Salva i pasti che mangi spesso e registrali di nuovo con un tocco. Cucini in grandi quantità? Aggiungi la ricetta intera, indica quante porzioni ne escono e registrala una porzione alla volta.
 
 * Obiettivi personalizzati
-Imposta i tuoi obiettivi di calorie, macro e micronutrienti — e i tuoi limiti massimi, per tenere il sodio, o qualsiasi altro nutriente, esattamente dove vuoi. Oppure usa i valori giornalieri raccomandati in base a età e sesso, e segui i progressi con grafici di tendenza per calorie, macro, acqua e ogni nutriente.
+Imposta i tuoi obiettivi di calorie, macro e micronutrienti — e i tuoi limiti massimi, per tenere il sodio, o qualsiasi altro nutriente, esattamente dove vuoi. Oppure usa i valori giornalieri raccomandati in base a età e sesso.
 
 * Monitoraggio dell'acqua
-Registra l'acqua con un tocco e guarda il tracker riempirsi verso il tuo obiettivo giornaliero. Osserva le tendenze di idratazione su 7 o 30 giorni (Premium).
+Registra l'acqua con un tocco e guarda il tracker riempirsi verso il tuo obiettivo giornaliero. Osserva le tendenze di idratazione su 7 o 30 giorni.
 
-* Misure corporee e obiettivi (Premium)
+* Misure corporee e obiettivi
 Monitora peso, massa grassa, IMC e circonferenza vita — scegli cosa conta per te. Imposta un obiettivo con scadenza e Nutrient Logger calcola il ritmo necessario, proietta la tua traiettoria e definisce un obiettivo calorico basato su BMR/TDEE.
 
-* Serie e traguardi
-Costruisci una serie giornaliera di registrazioni e una serie settimanale di monitoraggio corporeo, con celebrazioni a ogni tappa.
-
-* Grafici di tendenza dei nutrienti (Premium)
+* Grafici di tendenza dei nutrienti
 Osserva come cambia il tuo apporto di qualsiasi nutriente su 7 o 30 giorni. Individua schemi e confronta con il tuo obiettivo giornaliero — le statistiche contano solo i giorni che hai davvero registrato.
 
-* Controllo settimanale dei nutrienti (Premium)
+* Controllo settimanale dei nutrienti
 Un riepilogo settimanale segnala i nutrienti di cui sei rimasto a corto, con gli alimenti che colmano il divario. Controlla anche i rapporti Omega-6 : Omega-3, Sodio : Potassio, Zinco : Rame e Calcio : Magnesio, e indica gli alimenti dietro quello sbilanciato.
 
-* Sincronizzazione con Apple Salute (Premium)
+* Sincronizzazione con Apple Salute
 Scrivi automaticamente calorie, proteine, grassi, carboidrati e acqua in Apple Salute. Importa il peso da Salute per tenere tutto in un unico posto.
 
-* Esportazione CSV (Premium)
-Esporta il tuo diario alimentare completo con i dati nutrizionali per qualsiasi periodo — ideale da condividere con medico o dietista.
+Nutrient Logger è per chi prende sul serio la nutrizione: che tu segua una dieta specifica, gestisca una carenza o sia solo curioso della tua salute.
 
-* Impara mentre registri
-Scopri cosa fa ogni nutriente e perché è importante per la tua salute.
-
-Nutrient Logger è perfetto per chi prende sul serio la nutrizione — che tu segua una dieta specifica, gestisca una carenza o sia semplicemente curioso della tua salute. È ora di andare oltre le calorie e capire davvero il tuo cibo.
-
+I grafici di tendenza, il controllo settimanale, la sincronizzazione con Apple Salute, gli obiettivi di peso e quelli di vitamine e minerali fanno parte di Premium, un abbonamento facoltativo.
 
 * Termini d'uso Apple: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
+
+## What's New (v4.6)
+• Sei nuovo? Nella tua prima settimana, il promemoria serale indica il pasto che ti manca ancora oggi — un giorno completo di registrazione mostra cosa manca alla tua dieta
+• Registrare è più piacevole: una leggera vibrazione quando salvi un alimento, un lampo verde quando un nutriente raggiunge l'obiettivo e uno spruzzo quando raggiungi l'obiettivo d'acqua
+• Quando una carenza del controllo settimanale si colma, diventa verde prima di lasciare la lista
+• Il riepilogo del primo giorno mostra le tue carenze una alla volta, e ripetere un pasto lo riempie alimento per alimento
 
 ## What's New (v4.5)
 • Dopo il tuo primo giorno completo di registrazione, vedi le vitamine e i minerali che ti mancano di più — e quali sono carenze comuni per la tua dieta

@@ -14,15 +14,17 @@ vitamine,mineralstoffe,mangel,cronometer,myfitnesspal,kalorien,keto,vegan,makros
 ## Promotional Text (168/170 chars)
 Carnivore, Keto oder Paleo? Sieh, welche Vitamine und Mineralstoffe deiner Ernährung fehlen — ab deinem ersten voll protokollierten Tag. Werbefrei, offline, kein Konto.
 
-## Description
+## Description (3955/4000)
 Nutrient Logger ist der Offline-First-Ernährungstracker für alle, die wissen wollen, was wirklich in ihrem Essen steckt — nicht nur Kalorien und Makros, sondern das volle Spektrum an Vitaminen, Mineralstoffen und Aminosäuren, die dein Körper braucht.
+
+Isst du Carnivore, Keto oder Paleo? Wer ganze Lebensmittelgruppen weglässt, lässt auch ihre Vitamine und Mineralstoffe weg. Nach deinem ersten voll protokollierten Tag nennt Nutrient Logger die, die dir fehlen — etwa Vitamin C und Magnesium bei Carnivore oder Calcium und Vitamin D bei Paleo.
 
 Anders als Cloud-basierte Tracker verlässt dein Ernährungstagebuch nie dein Gerät — kein Konto, keine Cloud, keine Werbung. Und anders als Makro-fokussierte Apps schlüsselt jeder Eintrag über 80 Nährstoffe auf, damit du Lücken erkennst, bevor daraus ein Mangel wird.
 
 Die wichtigsten Funktionen:
 
 * Von Anfang an persönlich
-Sag uns, wie du isst — ausgewogen, pflanzlich, Keto/Low-Carb, Carnivore oder pescetarisch — und was dir am wichtigsten ist, von Energie bis zu Knochen und Gelenken. Nutrient Logger stellt die Nährstoffe, bei denen du am ehesten Lücken hast, an den Anfang deines Ernährungs-Tabs. Jederzeit in den Einstellungen änderbar.
+Sag uns, wie du isst — ausgewogen, pflanzlich, Keto/Low-Carb, Carnivore, Paleo oder pescetarisch — und was dir am wichtigsten ist, von Energie bis zu Knochen und Gelenken. Nutrient Logger stellt die Nährstoffe, bei denen du am ehesten Lücken hast, an den Anfang deines Ernährungs-Tabs. Jederzeit in den Einstellungen änderbar.
 
 * Detaillierte Nährstoffanalyse
 Sieh deine tägliche Zufuhr an Makro- und Mikronährstoffen, von Protein und Ballaststoffen bis Magnesium und Vitamin B12. Wähle die Nährstoffe, die dir wichtig sind, ordne sie neu und lege fest, wie viele pro Gruppe direkt sichtbar sind — für einen Ernährungs-Tab, der zu deinen Zielen passt.
@@ -34,39 +36,37 @@ Scanne jedes verpackte Lebensmittel und erhalte sofort seine Nährwertdaten. Nic
 Durchsuche zehntausende Lebensmittel, von frischen Zutaten bis zu verpackten Produkten, und protokolliere deine Mahlzeiten präzise. Die smarte Suche findet sofort das richtige Lebensmittel.
 
 * Gespeicherte Mahlzeiten
-Speichere, was du oft isst, und protokolliere es beim nächsten Mal mit einem Tipp.
+Speichere, was du oft isst, und protokolliere es beim nächsten Mal mit einem Tipp. Kochst du auf Vorrat? Füge das ganze Rezept hinzu, gib an, wie viele Portionen es ergibt, und protokolliere es Portion für Portion.
 
 * Persönliche Ziele
-Lege eigene Ziele für Kalorien, Makros und Mikronährstoffe fest — und eigene Obergrenzen, um Natrium oder jeden anderen Nährstoff genau dort zu deckeln, wo du willst. Oder nutze empfohlene Tageswerte nach Alter und Geschlecht und verfolge deinen Fortschritt mit Trend-Diagrammen für Kalorien, Makros, Wasser und jeden Nährstoff.
+Lege eigene Ziele für Kalorien, Makros und Mikronährstoffe fest — und eigene Obergrenzen, um Natrium oder jeden anderen Nährstoff genau dort zu deckeln, wo du willst. Oder nutze empfohlene Tageswerte nach Alter und Geschlecht.
 
 * Wasser-Tracking
-Protokolliere Wasser mit einem Tipp und sieh zu, wie sich der Tracker Richtung Tagesziel füllt. Verfolge deine Hydrations-Trends über 7 oder 30 Tage (Premium).
+Protokolliere Wasser mit einem Tipp und sieh zu, wie sich der Tracker Richtung Tagesziel füllt. Verfolge deine Hydrations-Trends über 7 oder 30 Tage.
 
-* Körperwerte & Ziele (Premium)
+* Körperwerte & Ziele
 Verfolge Gewicht, Körperfett, BMI und Taillenumfang — du entscheidest, was zählt. Setze ein Ziel mit Frist, und Nutrient Logger berechnet das nötige Tempo, projiziert deinen Verlauf und leitet ein Kalorienziel auf BMR/TDEE-Basis ab.
 
-* Serien & Erfolge
-Baue eine tägliche Logging-Serie und eine wöchentliche Körper-Tracking-Serie auf, mit Meilenstein-Feiern unterwegs.
-
-* Nährstoff-Trends (Premium)
+* Nährstoff-Trends
 Sieh, wie sich deine Zufuhr jedes Nährstoffs über 7 oder 30 Tage entwickelt. Erkenne Muster und vergleiche mit deinem Tagesziel — die Statistiken zählen nur Tage, an denen du wirklich protokolliert hast.
 
-* Wöchentlicher Nährstoff-Check (Premium)
+* Wöchentlicher Nährstoff-Check
 Ein wöchentlicher Überblick zeigt, welche Nährstoffe dir gefehlt haben — mit Lebensmitteln, die die Lücke schließen. Er verfolgt auch die Verhältnisse Omega-6 : Omega-3, Natrium : Kalium, Zink : Kupfer und Calcium : Magnesium und nennt, wenn eines kippt, die Lebensmittel dahinter.
 
-* Apple Health Sync (Premium)
+* Apple Health Sync
 Schreibe Kalorien, Protein, Fett, Kohlenhydrate und Wasser automatisch in Apple Health. Importiere dein Gewicht aus Health, damit alles an einem Ort bleibt.
 
-* CSV-Export (Premium)
-Exportiere dein komplettes Ernährungstagebuch mit Nährstoffdaten für jeden Zeitraum — ideal für Arzt oder Ernährungsberatung.
+Nutrient Logger ist perfekt für alle, die Ernährung ernst nehmen — ob spezielle Diät, ein Mangel oder einfach Neugier auf deine Gesundheit.
 
-* Lerne beim Protokollieren
-Erfahre, was jeder Nährstoff für deinen Körper tut und warum er wichtig ist.
-
-Nutrient Logger ist perfekt für alle, die Ernährung ernst nehmen — ob spezielle Diät, ein Mangel oder einfach Neugier auf deine Gesundheit. Zeit, über Kalorien hinauszugehen und dein Essen wirklich zu verstehen.
-
+Trend-Diagramme, der wöchentliche Nährstoff-Check, Apple Health Sync, Gewichtsziele und eigene Vitamin- und Mineralstoffziele sind Teil von Premium, einem optionalen Abo.
 
 * Apple-Nutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
+
+## What's New (v4.6)
+• Neu hier? In deiner ersten Woche nennt die Erinnerung am Abend die Mahlzeit, die heute noch fehlt — ein voll protokollierter Tag zeigt, was deiner Ernährung fehlt
+• Eintragen fühlt sich besser an: ein kurzes Vibrieren, wenn ein Lebensmittel gespeichert ist, ein grünes Aufleuchten, wenn ein Nährstoff sein Ziel erreicht, und ein Platschen, wenn du dein Wasserziel schaffst
+• Schließt sich eine Lücke im Wochen-Check, wird sie grün, bevor sie aus der Liste verschwindet
+• Deine Bilanz nach dem ersten Tag zeigt deine Lücken eine nach der anderen, und eine wiederholte Mahlzeit füllt sich Lebensmittel für Lebensmittel
 
 ## What's New (v4.5)
 • Nach deinem ersten voll protokollierten Tag siehst du, welche Vitamine und Mineralstoffe dir am meisten fehlen — und welche davon bei deiner Ernährung typische Lücken sind

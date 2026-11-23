@@ -14,15 +14,17 @@ vitamin,mineral,brist,cronometer,myfitnesspal,kalorier,keto,vegan,makro,näring,
 ## Promotional Text (160/170 chars)
 Carnivore, keto eller paleo? Se vilka vitaminer och mineraler din kost har för lite av, redan från din första helt loggade dag. Annonsfri, offline, inget konto.
 
-## Description
+## Description (3960/4000)
 Nutrient Logger är den offline-first-baserade näringstrackern för dig som vill veta vad din mat faktiskt innehåller — inte bara kalorier och makron, utan hela spektrumet av vitaminer, mineraler och aminosyror som kroppen behöver.
+
+Äter du carnivore, keto eller paleo? När du stryker hela livsmedelsgrupper stryker du också vitaminerna och mineralerna i dem. Efter din första helt loggade dag pekar Nutrient Logger ut de du får för lite av — som C-vitamin och magnesium på carnivore, eller kalcium och D-vitamin på paleo — så att du kan rätta till det med mat i stället för att gissa.
 
 Till skillnad från molnbaserade trackers lämnar din matdagbok aldrig din enhet — inget konto, inget moln och inga annonser. Och till skillnad från makrofokuserade appar bryter varje post ner 80+ näringsämnen så att du kan upptäcka luckor innan de blir brister.
 
 Huvudfunktioner:
 
 * Personlig från dag ett
-Berätta hur du äter — balanserat, växtbaserat, keto eller lågkolhydrat, carnivore eller pescetariskt — och vad du bryr dig mest om, från energi till skelett och leder. Nutrient Logger lyfter de näringsämnen du lättast får för lite av till toppen av din Näring-flik, så att det som betyder något för dig är det första du ser. Du kan ändra dina svar när som helst i inställningarna.
+Berätta hur du äter — balanserat, växtbaserat, keto eller lågkolhydrat, carnivore, paleo eller pescetariskt — och vad du bryr dig mest om, från energi till skelett och leder. Nutrient Logger lyfter de näringsämnen du lättast får för lite av till toppen av din Näring-flik, så att det som betyder något för dig är det första du ser. Du kan ändra dina svar när som helst i inställningarna.
 
 * Detaljerad näringsanalys
 Se ditt dagliga intag av både makro- och mikronäringsämnen, från protein och fibrer till magnesium och vitamin B12. Välj vilka näringsämnen som är viktiga för dig, ordna om dem och bestäm hur många varje grupp visar direkt — för en Näring-flik som passar dina mål.
@@ -33,40 +35,38 @@ Skanna vilken förpackad vara som helst och hämta näringsdata direkt. Känner 
 * Omfattande livsmedelsdatabas
 Sök bland tiotusentals livsmedel, både råvaror och förpackade varor, och logga måltider med precision. Den smarta sökningen förstår vad du menar och hittar rätt livsmedel direkt.
 
-* Logga vad som helst
-Skanna streckkoder, sök i databasen eller lägg till egna varor — och spara dina vanligaste måltider för att logga snabbare nästa gång.
+* Sparade måltider
+Spara måltiderna du äter ofta och logga dem igen med ett tryck. Lagar du mat i stora satser? Lägg till hela receptet, ange hur många portioner det blir och logga en portion i taget.
 
 * Personliga mål
-Sätt egna mål för kalorier, makron och mikronäringsämnen — och egna övre gränser, så att du kan hålla natrium, eller vilket annat näringsämne som helst, precis där du vill. Eller använd rekommenderade dagsvärden utifrån ålder och kön, och följ dina framsteg med trendkurvor för kalorier, makron och vatten utöver varje näringsämne.
+Sätt egna mål för kalorier, makron och mikronäringsämnen — och egna övre gränser, så att du kan hålla natrium, eller vilket annat näringsämne som helst, precis där du vill. Eller använd rekommenderade dagsvärden utifrån ålder och kön.
 
 * Vattenkoll
-Logga vatten med ett tryck och se den animerade trackern fyllas mot ditt dagsmål. Se dina hydreringstrender över 7 eller 30 dagar (Premium).
+Logga vatten med ett tryck och se den animerade trackern fyllas mot ditt dagsmål. Se dina hydreringstrender över 7 eller 30 dagar.
 
-* Kroppsvärden & mål (Premium)
+* Kroppsvärden & mål
 Följ vikt, kroppsfett, BMI och midjemått — välj vad som är viktigt för dig. Sätt ett mål med deadline så räknar Nutrient Logger ut takten du behöver, projicerar din kurva och sätter ett kalorimål baserat på BMR/TDEE.
 
-* Sviter & prestationer
-Bygg en daglig loggningssvit och en veckovis kroppssvit, med firanden vid varje milstolpe. Se din längsta svit, totalt loggade dagar och mer på din profil.
-
-* Trendkurvor för näringsämnen (Premium)
+* Trendkurvor för näringsämnen
 Se hur ditt intag av vilket näringsämne som helst förändras över 7 eller 30 dagar. Upptäck mönster och jämför med ditt dagsmål — statistiken räknar bara de dagar du faktiskt loggat.
 
-* Veckovis näringskoll (Premium)
+* Veckovis näringskoll
 En veckosammanfattning flaggar de näringsämnen du fått för lite av, med livsmedel som täpper till luckan. Den håller även koll på kvoterna Omega-6 : Omega-3, Natrium : Kalium, Zink : Koppar och Kalcium : Magnesium, och pekar ut livsmedlen bakom den som glider.
 
-* Apple Hälsa-synk (Premium)
+* Apple Hälsa-synk
 Skriv automatiskt dagens kalorier, protein, fett, kolhydrater och vatten till Apple Hälsa. Importera vikt från Hälsa så att allt finns på ett ställe.
-
-* CSV-export (Premium)
-Exportera hela din matdagbok med näringsdata för valfri period — perfekt att dela med läkare eller dietist.
-
-* Lär dig medan du loggar
-Upptäck vad varje näringsämne gör för kroppen och varför det spelar roll för din hälsa.
 
 Nutrient Logger passar alla som tar näring på allvar — oavsett om du följer en specifik diet, hanterar en brist eller bara är nyfiken på din hälsa. Dags att gå bortom kalorierna och verkligen förstå din mat.
 
+Trendkurvor, den veckovisa näringskollen, Apple Hälsa-synk, viktmål och egna mål för vitaminer och mineraler ingår i Premium, en valfri prenumeration.
 
 * Apples användarvillkor: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
+
+## What's New (v4.6)
+• Ny här? Under din första vecka nämner kvällspåminnelsen den måltid som fortfarande saknas i dag — en helt loggad dag visar vad din kost har för lite av
+• Loggningen känns bättre: en lätt vibration när ett livsmedel sparas, en grön blinkning när ett näringsämne når sitt mål och ett plask när du når ditt vattenmål
+• När en lucka i veckokollen stängs blir den grön innan den lämnar listan
+• Sammanfattningen av din första dag visar dina luckor en i taget, och en upprepad måltid fylls på livsmedel för livsmedel
 
 ## What's New (v4.5)
 • Efter din första helt loggade dag ser du vilka vitaminer och mineraler du har minst av — och vilka av dem som är vanliga luckor för din kost

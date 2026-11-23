@@ -25,7 +25,7 @@ Popularity runs 5-100 in Astro, and 5 means almost no one searches it.
 ## Promotional Text (158/170 chars)
 Carnivore, keto or paleo? See which vitamins and minerals your diet runs short on, starting with your first full day of logging. Ad-free, offline, no account.
 
-## Description
+## Description (3950/4000)
 Nutrient Logger is the offline-first nutrition tracker for people who want to know what's actually in their food - not just calories and macros, but the full spectrum of vitamins, minerals, and amino acids your body needs.
 
 Eating carnivore, keto or paleo? Cutting out whole food groups also cuts the vitamins and minerals they carry. After your first full day of logging, Nutrient Logger names the ones you're running short on - like vitamin C and magnesium on carnivore, or calcium and vitamin D on paleo - so you can fix them with food instead of guessing.
@@ -50,36 +50,34 @@ Search from tens of thousands of foods, including whole ingredients and packaged
 Save the meals you eat often and log them again in a single tap. Cooking a batch? Add the whole recipe, say how many servings it makes, and log it one serving at a time.
 
 * Personalized Targets
-Set your own calorie, macro, and micronutrient goals - and your own upper limits, so you can cap sodium, or any other nutrient, exactly where you want it. Or use recommended daily values based on your age and sex, and track your progress with trend charts for calories, macros, and water alongside every nutrient.
+Set your own calorie, macro, and micronutrient goals - and your own upper limits, so you can cap sodium, or any other nutrient, exactly where you want it. Or use recommended daily values based on your age and sex.
 
 * Water Tracking
-Log water with one tap and watch the tracker fill toward your daily goal. See your hydration trends over 7 or 30 days (Premium).
+Log water with one tap and watch the tracker fill toward your daily goal. See your hydration trends over 7 or 30 days.
 
-* Body Metrics & Goals (Premium)
+* Body Metrics & Goals
 Track weight, body fat, BMI, and waist circumference - pick which ones matter. Set a goal and deadline and Nutrient Logger calculates the pace you need, projects your trajectory, and sets a BMR/TDEE-based calorie target to get you there.
 
-* Streaks & Achievements
-Build a daily logging streak and a weekly body-tracking streak, with milestone celebrations along the way.
-
-* Nutrient Trend Charts (Premium)
+* Nutrient Trend Charts
 See how your intake of any nutrient changes over 7 or 30 days. Spot patterns, track consistency, and compare against your daily target - summary stats count only the days you actually logged.
 
-* Weekly Nutrient Watch (Premium)
+* Weekly Nutrient Watch
 A weekly digest flags the nutrients you've been running low on, with foods that would close the gap. It also tracks the pairs that only matter in ratio - Omega-6 : Omega-3, Sodium : Potassium, Zinc : Copper, Calcium : Magnesium - and when one drifts, names the foods on both sides driving it.
 
-* Apple Health Sync (Premium)
+* Apple Health Sync
 Automatically write your daily calories, protein, fat, carbs, and water to Apple Health. Import weight data from Health to keep everything in one place.
-
-* CSV Export (Premium)
-Export your full food log with nutrient data for any date range - ideal for sharing with a doctor or dietitian.
-
-* Learn as You Log
-Discover what each nutrient does for your body and why it matters to your overall health.
 
 Nutrient Logger is perfect for anyone serious about nutrition-whether you’re on a specific diet, managing a deficiency, or just curious about your health. It’s time to go beyond calories and truly understand your food.
 
+Trend charts, the Weekly Nutrient Watch, Apple Health sync, weight goals and your own vitamin and mineral targets are part of Premium, an optional subscription.
 
 * Apple Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
+
+## What's New (v4.6)
+• New here? For your first week, the evening reminder names the meal still missing from today - one full day of logging shows what your diet is short on
+• Logging feels better: a light buzz when a food is saved, a green flash when a nutrient reaches its goal, and a splash when you reach your water goal
+• When a gap in the weekly watch closes, it turns green before leaving the list
+• Your first-day recap reveals your gaps one at a time, and repeating a meal fills it in food by food
 
 ## What's New (v4.5)
 • After your first full day of logging, see the vitamins and minerals you're shortest on - and which of them are common gaps for your diet

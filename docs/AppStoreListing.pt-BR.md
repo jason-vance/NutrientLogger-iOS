@@ -14,15 +14,17 @@ vitamina,mineral,deficiência,cronometer,myfitnesspal,calorias,keto,vegano,macro
 ## Promotional Text (163/170 chars)
 Carnívora, keto ou paleo? Veja quais vitaminas e minerais faltam na sua dieta a partir do seu primeiro dia completo de registro. Sem anúncios, offline e sem conta.
 
-## Description
+## Description (3974/4000)
 O Nutrient Logger é o rastreador nutricional offline para quem quer saber o que realmente tem na sua comida — não só calorias e macros, mas todo o espectro de vitaminas, minerais e aminoácidos de que o seu corpo precisa.
+
+Segue a dieta carnívora, keto ou paleo? Cortar grupos inteiros de alimentos também corta as vitaminas e minerais deles. Depois do seu primeiro dia completo de registro, o Nutrient Logger mostra quais estão faltando — como vitamina C e magnésio na carnívora, ou cálcio e vitamina D na paleo — para você corrigir com comida.
 
 Diferente dos rastreadores na nuvem, o seu diário alimentar nunca sai do seu aparelho — sem conta, sem nuvem e sem anúncios. E diferente dos apps focados em macros, cada registro detalha mais de 80 nutrientes para você identificar lacunas antes que virem deficiências.
 
 Principais recursos:
 
 * Personalizado desde o primeiro dia
-Diga como você come — equilibrado, à base de plantas, keto ou low-carb, carnívoro ou pescetariano — e o que mais importa para você, da energia a ossos e articulações. O Nutrient Logger leva para o topo da sua aba de Nutrição os nutrientes que você tem mais chance de deixar faltando. Dá para mudar suas respostas quando quiser nos ajustes.
+Diga como você come — equilibrado, à base de plantas, keto ou low-carb, carnívoro, paleo ou pescetariano — e o que mais importa para você, da energia a ossos e articulações. O Nutrient Logger leva para o topo da sua aba de Nutrição os nutrientes que você tem mais chance de deixar faltando. Dá para mudar suas respostas quando quiser nos ajustes.
 
 * Análise nutricional detalhada
 Veja sua ingestão diária de macro e micronutrientes, de proteína e fibras a magnésio e vitamina B12. Escolha os nutrientes que importam para você, reordene-os e defina quantos cada grupo mostra, montando uma aba de Nutrição do seu jeito.
@@ -34,39 +36,37 @@ Escaneie qualquer alimento embalado para obter na hora os dados nutricionais. C�
 Pesquise entre dezenas de milhares de alimentos, de ingredientes in natura a produtos embalados, para registrar refeições com precisão. A busca inteligente encontra o alimento certo na hora.
 
 * Refeições salvas
-Salve as refeições que você repete e registre-as de novo com um toque.
+Salve as refeições que você come sempre e registre de novo com um toque. Cozinhou em quantidade? Adicione a receita inteira, diga quantas porções ela rende e registre uma porção de cada vez.
 
 * Metas personalizadas
-Defina suas próprias metas de calorias, macros e micronutrientes — e seus próprios limites máximos, para segurar o sódio, ou qualquer outro nutriente, exatamente onde quiser. Ou use os valores diários recomendados por idade e sexo, e acompanhe seu progresso com gráficos de tendência para calorias, macros, água e cada nutriente.
+Defina suas próprias metas de calorias, macros e micronutrientes — e seus próprios limites máximos, para segurar o sódio, ou qualquer outro nutriente, exatamente onde quiser. Ou use os valores diários recomendados por idade e sexo.
 
 * Controle de água
-Registre água com um toque e veja o indicador encher rumo à sua meta diária. Acompanhe suas tendências de hidratação em 7 ou 30 dias (Premium).
+Registre água com um toque e veja o indicador encher rumo à sua meta diária. Acompanhe suas tendências de hidratação em 7 ou 30 dias.
 
-* Medidas corporais e metas (Premium)
+* Medidas corporais e metas
 Acompanhe peso, gordura corporal, IMC e circunferência da cintura — escolha o que importa para você. Defina uma meta com prazo e o Nutrient Logger calcula o ritmo necessário, projeta sua trajetória e define uma meta calórica baseada em BMR/TDEE.
 
-* Sequências e conquistas
-Construa uma sequência diária de registro e uma sequência semanal de acompanhamento corporal, com comemorações a cada marco.
-
-* Gráficos de tendência de nutrientes (Premium)
+* Gráficos de tendência de nutrientes
 Veja como a sua ingestão de qualquer nutriente muda em 7 ou 30 dias. Identifique padrões e compare com a sua meta diária — as estatísticas contam só os dias que você registrou.
 
-* Acompanhamento semanal de nutrientes (Premium)
+* Acompanhamento semanal de nutrientes
 Um resumo semanal aponta os nutrientes que andaram em falta, com alimentos que fechariam a conta. Ele também acompanha as proporções Ômega-6 : Ômega-3, Sódio : Potássio, Zinco : Cobre e Cálcio : Magnésio, e aponta os alimentos por trás da que sai do eixo.
 
-* Sincronização com o app Saúde (Premium)
+* Sincronização com o app Saúde
 Grave automaticamente calorias, proteínas, gorduras, carboidratos e água no app Saúde da Apple. Importe seu peso do Saúde para manter tudo em um só lugar.
 
-* Exportação CSV (Premium)
-Exporte seu diário alimentar completo com dados nutricionais para qualquer período — ideal para compartilhar com médico ou nutricionista.
+O Nutrient Logger é perfeito para quem leva nutrição a sério — seja numa dieta específica, cuidando de uma deficiência ou só por curiosidade sobre a própria saúde.
 
-* Aprenda enquanto registra
-Descubra o que cada nutriente faz pelo seu corpo e por que ele importa para a sua saúde.
-
-O Nutrient Logger é perfeito para quem leva nutrição a sério — seja numa dieta específica, cuidando de uma deficiência ou só por curiosidade sobre a própria saúde. É hora de ir além das calorias e entender de verdade a sua comida.
-
+Os gráficos de tendência, o acompanhamento semanal de nutrientes, a sincronização com o app Saúde, as metas de peso e suas próprias metas de vitaminas e minerais fazem parte do Premium, uma assinatura opcional.
 
 * Termos de Uso da Apple: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
+
+## What's New (v4.6)
+• Chegou agora? Na sua primeira semana, o lembrete da noite mostra a refeição que ainda falta hoje — um dia completo de registro mostra o que falta na sua dieta
+• Registrar ficou mais gostoso: uma leve vibração ao salvar um alimento, um brilho verde quando um nutriente bate a meta e um respingo quando você atinge a meta de água
+• Quando uma lacuna do resumo semanal se fecha, ela fica verde antes de sair da lista
+• O resumo do seu primeiro dia mostra suas lacunas uma a uma, e repetir uma refeição a preenche alimento por alimento
 
 ## What's New (v4.5)
 • Depois do seu primeiro dia completo de registro, veja as vitaminas e minerais que mais estão faltando — e quais deles são lacunas comuns na sua dieta
