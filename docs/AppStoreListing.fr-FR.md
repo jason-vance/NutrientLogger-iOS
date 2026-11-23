@@ -12,7 +12,7 @@ Micronutriments hors ligne
 vitamine,minéraux,carence,cronometer,myfitnesspal,calories,céto,végan,macro,nutrition,journal,repas
 
 ## Promotional Text (170/170 chars)
-Carnivore, céto ou paléo ? Voyez les vitamines et minéraux qui manquent à votre alimentation, dès votre premier jour complet de saisie. Sans pub, hors ligne, sans compte.
+Carnivore, céto ou paléo ? Voyez les vitamines et minéraux qui manquent à votre alimentation, dès votre premier jour complet de saisie. Sans pub, hors ligne, sans compte
 
 ## Description (3958/4000)
 Nutrient Logger est le tracker nutritionnel 100 % hors ligne pour qui veut savoir ce que contient vraiment son alimentation — pas seulement les calories et les macros, mais tout le spectre de vitamines, minéraux et acides aminés dont votre corps a besoin.
