@@ -40,6 +40,17 @@ struct LogPortionDefaultsTests {
         #expect(selection.amount == 2)
     }
 
+    /// Before the portion-amount fix, "4 oz = 113 g" was offered as "1 oz = 113 g". Food logged
+    /// back then must not bring the wrong weight back once the database reads it correctly.
+    @Test func prefersTheCurrentWeightWhenTheSamePortionNameChangedWeight() {
+        let ounce = Portion(name: "oz", amount: 4, gramWeight: 28.25)
+        let last = LogPortionDefaults.LastLogged(portionName: "oz", gramWeight: 113, amount: 1)
+        let selection = LogPortionDefaults.initialSelection(portions: [ounce, grams], lastLogged: last)
+        #expect(selection.selected == ounce)
+        #expect(selection.amount == 1)
+        #expect(selection.portions == [ounce, grams])
+    }
+
     @Test func switchingBetweenGramsAndCountedPortionsResetsAmount() {
         #expect(LogPortionDefaults.amountAfterSwitching(from: cup, to: grams, currentAmount: 2) == 100)
         #expect(LogPortionDefaults.amountAfterSwitching(from: grams, to: cup, currentAmount: 150) == 1)

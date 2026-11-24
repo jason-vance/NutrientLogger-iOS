@@ -16,6 +16,8 @@ struct PortionTests_BundledFdcDatabase {
         test(0, "1.5 fl oz", 30, 1.5, "fl oz", 20)
         test(1, "oz", 28.35, 1, "oz", 28.35)
         test(0.5, "oz", 14.2, 0.5, "oz", 28.4)
+        test(4, "oz", 113, 4, "oz", 28.25)
+        test(0, "oz", 28, 1, "oz", 28)
     }
 
     private func test(_ amount: Double, _ desc: String, _ gramWeight: Double, _ expectedAmount: Double, _ expectedeDesc: String, _ expectedGrams: Double) {

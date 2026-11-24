@@ -199,6 +199,7 @@ fileprivate enum Columns {
     public static var sequenceNumber = Expression<Int>("seq_num")
     public static var amount = Expression<Double?>("amount")
     public static var amountAsInt = Expression<Int>("amount")
+    public static var optionalAmountAsInt = Expression<Int?>("amount")
     public static var measureUnitId = Expression<Int>("measure_unit_id")
     public static var portionDescription = Expression<String?>("portion_description")
     public static var modifier = Expression<String?>("modifier")
@@ -266,7 +267,10 @@ fileprivate class PortionWrapper {
             id: row[Columns.id],
             fdcId: row[Columns.fdcId],
             sequenceNumber: row[Columns.sequenceNumber],
-            amount: row[Columns.amount],
+            // Most legacy portions store their amount as an INTEGER, which SQLite.swift reads as
+            // nil through a Double expression. Without the Int fallback, "4 oz = 113 g" became
+            // "1 oz = 113 g" and logged four times the nutrients.
+            amount: row[Columns.amount] ?? row[Columns.optionalAmountAsInt].map(Double.init),
             description: row[Columns.portionDescription],
             modifier: row[Columns.modifier],
             gramWeight: row[Columns.gramWeight] ?? Double(row[Columns.gramWeightAsInt])

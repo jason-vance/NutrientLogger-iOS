@@ -24,8 +24,10 @@ enum LogPortionDefaults {
         let amount: Double
     }
 
-    /// Reuses last time's portion and amount when there is one. If that portion is no longer in
-    /// the list, it's added at the front so it can still be picked.
+    /// Reuses last time's portion and amount when there is one. A portion with the same name but a
+    /// new weight replaces the old one, since the food's data changed (a corrected database, an
+    /// edited custom food). If no portion has that name any more, the old one is added at the
+    /// front so it can still be picked.
     static func initialSelection(portions: [Portion], lastLogged: LastLogged?) -> Selection {
         guard let last = lastLogged, last.amount > 0 else {
             let first = portions.first
@@ -34,6 +36,10 @@ enum LogPortionDefaults {
 
         if let match = portions.first(where: { isSamePortion($0, name: last.portionName, gramWeight: last.gramWeight) }) {
             return Selection(portions: portions, selected: match, amount: last.amount)
+        }
+
+        if let reweighed = portions.first(where: { $0.name == last.portionName }) {
+            return Selection(portions: portions, selected: reweighed, amount: last.amount)
         }
 
         let restored = Portion(name: last.portionName, amount: 1, gramWeight: last.gramWeight)

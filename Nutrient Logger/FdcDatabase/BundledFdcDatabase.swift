@@ -171,7 +171,9 @@ class BundledFdcDatabase: RemoteDatabase {
     public static func portionFrom(_ portion: FdcPortion) -> Portion {
         let amountStr = portion.description?.split(separator: " ").first
         let parsedAmount = amountStr != nil ? Double(amountStr!) : nil
-        let amount = parsedAmount ?? portion.amount ?? portion_DefaultAmount
+        // A stored amount of 0 (a few legacy rows) means one, like a missing amount.
+        let storedAmount = portion.amount.flatMap { $0 > 0 ? $0 : nil }
+        let amount = parsedAmount ?? storedAmount ?? portion_DefaultAmount
 
         let portionDesc = portion.description
         var description = (portionDesc == nil || portionDesc!.isEmpty) ? portion.modifier! : portionDesc!
