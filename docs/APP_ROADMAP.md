@@ -379,7 +379,7 @@ All code is on `dev` (pushed through 86d0982). App Store Connect has 4.4 live an
 - [ ] Localized keywords still include "cronometer" and "myfitnesspal", which the English keywords dropped under guideline 2.3.7. Replacing them needs per-country keyword research.
 
 ### Release
-- [x] Submitted for review Nov 23 2026 as **4.6 (78)**, built from `054f51e` (tag `v4.6(78)`).
+- [x] Submitted for review Nov 23 2026 as **4.6 (78)**, built from `054f51e` (tag `v4.6(78)`), approved Nov 24 2026.
 
 **After approval**
 - [ ] A week or two in: compare the share of new users who log `first_full_day_logged` (and its `day_number`) with the weeks before 4.6. That's the first-day reminder's success measure.
