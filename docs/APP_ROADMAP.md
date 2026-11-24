@@ -374,7 +374,17 @@ All code is on `dev` (pushed through 86d0982). App Store Connect has 4.4 live an
 - [ ] **Carnivore Diet Guide promo** (Nov 11 2026, in that project, not yet committed): a Nutrient Logger card at the end of every article. Taps log `nutrient_logger_promo_tapped` there; downloads show in Nutrient Logger's App Analytics under Sources → App Referrer.
 
 ### Store Listing
-- **What's New:** "New users get a nudge toward their first full day of logging, when Nutrient Logger shows what their diet is short on."
+- [x] **What's New (v4.6)** in `AppStoreListing.md` and all 10 localized docs (Nov 23 2026).
+- [x] **Description trimmed to fit 4,000 characters** in every language: no per-feature Premium labels, Streaks / CSV Export / Learn as You Log removed, and one closing line naming the Premium features (guideline 2.3.2). The localized descriptions also caught up with English (carnivore/keto/paleo paragraph, paleo, batch cooking).
+- [ ] Localized keywords still include "cronometer" and "myfitnesspal", which the English keywords dropped under guideline 2.3.7. Replacing them needs per-country keyword research.
+
+### Release
+- [x] Submitted for review Nov 23 2026 as **4.6 (78)**, built from `054f51e` (tag `v4.6(78)`).
+
+**After approval**
+- [ ] A week or two in: compare the share of new users who log `first_full_day_logged` (and its `day_number`) with the weeks before 4.6. That's the first-day reminder's success measure.
+- [ ] Try the new haptics on a phone from the App Store build; the Simulator can't play them.
+- [ ] Carnivore Diet Guide promo card: still uncommitted in that project.
 
 ---
 
