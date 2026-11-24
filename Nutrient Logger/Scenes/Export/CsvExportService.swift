@@ -52,7 +52,7 @@ struct CsvExportService {
     }
 
     private func headerRow(unitsByNutrientNumber: [String: String]) -> String {
-        var fields = ["Date", "Meal", "Food", "Amount", "Portion", "Grams"]
+        var fields = ["Date", "Meal", "Food", "Amount", "Portion", "Total Grams"]
         fields += Self.nutrientNumbers.map { number in
             let name = FdcNutrientGroupMapper.nutrientDisplayNames[number] ?? number
             guard let unit = unitsByNutrientNumber[number] else { return name }
@@ -68,7 +68,8 @@ struct CsvExportService {
             consumed.name,
             Self.formatNumber(consumed.portionAmount),
             consumed.portionName,
-            Self.formatNumber(consumed.portionGramWeight),
+            // The weight eaten, like the nutrient columns: 4 oz of steak is 113 g, not one ounce's 28.25 g.
+            Self.formatNumber(consumed.portionAmount * consumed.portionGramWeight),
         ]
         fields += Self.nutrientNumbers.map { number in
             guard let amount = nutrients[number] else { return "" }

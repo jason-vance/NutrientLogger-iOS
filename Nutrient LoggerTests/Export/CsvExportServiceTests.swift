@@ -23,14 +23,17 @@ final class CsvExportServiceTests: XCTestCase {
         fdcId: Int = 1,
         name: String = "Honey",
         dateLogged: SimpleDate = SimpleDate(year: 2026, month: 6, day: 1)!,
-        mealTime: MealTime = .breakfast
+        mealTime: MealTime = .breakfast,
+        portionAmount: Double = 1,
+        portionGramWeight: Double = 100,
+        portionName: String = "cup"
     ) -> ConsumedFood {
         ConsumedFood(
             fdcId: fdcId,
             name: name,
-            portionAmount: 1,
-            portionGramWeight: 100,
-            portionName: "cup",
+            portionAmount: portionAmount,
+            portionGramWeight: portionGramWeight,
+            portionName: portionName,
             dateLogged: dateLogged,
             mealTime: mealTime
         )
@@ -41,7 +44,7 @@ final class CsvExportServiceTests: XCTestCase {
         let lines = csv.components(separatedBy: "\r\n")
 
         XCTAssertEqual(lines.count, 1)
-        XCTAssertTrue(lines[0].hasPrefix("Date,Meal,Food,Amount,Portion,Grams"))
+        XCTAssertTrue(lines[0].hasPrefix("Date,Meal,Food,Amount,Portion,Total Grams"))
     }
 
     func testRowIncludesFoodAndNutrientData() {
@@ -70,6 +73,20 @@ final class CsvExportServiceTests: XCTestCase {
         XCTAssertTrue(lines[0].contains("Calcium (mg)"))
         XCTAssertTrue(lines[1].hasPrefix("2026-06-01,Breakfast,Honey,1.000,cup,100.000"))
         XCTAssertTrue(lines[1].contains("10.000"))
+    }
+
+    func testTotalGramsIsTheWeightEatenNotOnePortionUnit() {
+        let steak = makeConsumedFood(
+            name: "Ribeye",
+            mealTime: .dinner,
+            portionAmount: 4,
+            portionGramWeight: 28.25,
+            portionName: "oz"
+        )
+        let csv = service.generateCsv(consumedFoods: [steak])
+        let lines = csv.components(separatedBy: "\r\n")
+
+        XCTAssertTrue(lines[1].hasPrefix("2026-06-01,Dinner,Ribeye,4.000,oz,113.000"))
     }
 
     func testMissingFoodStillProducesRowWithBlankNutrients() {
