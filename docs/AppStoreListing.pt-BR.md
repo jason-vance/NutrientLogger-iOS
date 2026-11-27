@@ -62,6 +62,10 @@ Os gráficos de tendência, o acompanhamento semanal de nutrientes, a sincroniza
 
 * Termos de Uso da Apple: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Corrigido: alguns alimentos ofereciam porções cuja quantidade não batia com o peso — "1 oz" que na verdade pesava 4 oz — e registrar uma contava várias vezes mais nutrientes do que devia
+• Export Data: a coluna "Grams" do CSV agora é "Total Grams", o peso que você comeu, igual às colunas de nutrientes
+
 ## What's New (v4.6)
 • Chegou agora? Na sua primeira semana, o lembrete da noite mostra a refeição que ainda falta hoje — um dia completo de registro mostra o que falta na sua dieta
 • Registrar ficou mais gostoso: uma leve vibração ao salvar um alimento, um brilho verde quando um nutriente bate a meta e um respingo quando você atinge a meta de água

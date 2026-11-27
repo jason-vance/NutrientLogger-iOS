@@ -388,6 +388,21 @@ All code is on `dev` (pushed through 86d0982). App Store Connect has 4.4 live an
 
 ---
 
+## v4.6.1 — Portion fix
+**Theme:** Two fixes found while porting to Android. The Android 4.6 (101) on Google Play already has both.
+
+### Code
+- [x] **Legacy portion amounts** (Nov 23 2026, `2141d4d`): most SR Legacy portions store their amount as an integer, which was read as missing, so "4 oz = 113 g" was offered as "1 oz = 113 g" and a log counted several times the nutrients (2,740 portions across 2,653 foods). Past log entries keep the weights they were logged with. When a remembered portion now weighs something else, the current one is selected.
+- [x] **CSV "Total Grams"** (Nov 23 2026, `2b18dae`): the grams column was one portion unit's weight. It's now the weight eaten (amount × unit weight), like the nutrient columns.
+
+### Store Listing
+- [x] **What's New (v4.6.1)** in `AppStoreListing.md` and all 10 localized docs (Nov 27 2026). The CSV column names and "Export Data" stay in English, as in the app.
+
+### Release
+- [ ] Archive 4.6.1 with Xcode Cloud, tag it `v4.6.1(build)`, and submit it with the What's New text in all 11 languages.
+
+---
+
 ## Backlog (v4.x and beyond)
 
 These are worth tracking but don't have a clear version slot yet:

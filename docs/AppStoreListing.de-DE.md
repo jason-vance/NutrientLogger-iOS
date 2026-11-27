@@ -62,6 +62,10 @@ Trend-Diagramme, der wöchentliche Nährstoff-Check, Apple Health Sync, Gewichts
 
 * Apple-Nutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Behoben: Bei manchen Lebensmitteln passte die Portionsmenge nicht zum Gewicht — „1 oz“, die eigentlich 4 oz wog —, sodass ein Eintrag ein Vielfaches der Nährstoffe zählte
+• Export Data: Die Spalte „Grams“ der CSV heißt jetzt „Total Grams“ — das Gewicht, das du gegessen hast, passend zu den Nährstoffspalten
+
 ## What's New (v4.6)
 • Neu hier? In deiner ersten Woche nennt die Erinnerung am Abend die Mahlzeit, die heute noch fehlt — ein voll protokollierter Tag zeigt, was deiner Ernährung fehlt
 • Eintragen fühlt sich besser an: ein kurzes Vibrieren, wenn ein Lebensmittel gespeichert ist, ein grünes Aufleuchten, wenn ein Nährstoff sein Ziel erreicht, und ein Platschen, wenn du dein Wasserziel schaffst

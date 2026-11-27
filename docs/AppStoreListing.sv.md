@@ -62,6 +62,10 @@ Trendkurvor, den veckovisa näringskollen, Apple Hälsa-synk, viktmål och egna 
 
 * Apples användarvillkor: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Fixat: vissa livsmedel erbjöd portioner där mängden inte stämde med vikten — "1 oz" som egentligen vägde 4 oz — så att en loggning räknade flera gånger för mycket näringsämnen
+• Export Data: CSV-filens kolumn "Grams" heter nu "Total Grams", vikten du åt, precis som näringsämneskolumnerna
+
 ## What's New (v4.6)
 • Ny här? Under din första vecka nämner kvällspåminnelsen den måltid som fortfarande saknas i dag — en helt loggad dag visar vad din kost har för lite av
 • Loggningen känns bättre: en lätt vibration när ett livsmedel sparas, en grön blinkning när ett näringsämne når sitt mål och ett plask när du når ditt vattenmål

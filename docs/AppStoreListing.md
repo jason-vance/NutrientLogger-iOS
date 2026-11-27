@@ -73,6 +73,10 @@ Trend charts, the Weekly Nutrient Watch, Apple Health sync, weight goals and you
 
 * Apple Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Fixed: some foods offered portions whose amount didn't match their weight - "1 oz" that really weighed 4 oz - so logging one counted several times the nutrients
+• Export Data: the CSV's "Grams" column is now "Total Grams", the weight you ate, so it matches the nutrient columns
+
 ## What's New (v4.6)
 • New here? For your first week, the evening reminder names the meal still missing from today - one full day of logging shows what your diet is short on
 • Logging feels better: a light buzz when a food is saved, a green flash when a nutrient reaches its goal, and a splash when you reach your water goal

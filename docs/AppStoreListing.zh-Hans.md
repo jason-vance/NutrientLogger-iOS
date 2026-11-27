@@ -62,6 +62,10 @@ Nutrient Logger 适合每一位认真对待营养的人——无论你在坚持�
 
 * Apple 使用条款: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• 修复：部分食物的份量与重量不符——标着“1 oz”实际重 4 oz——记录后营养素会被算成好几倍
+• Export Data：CSV 中的“Grams”列改为“Total Grams”，显示你吃下的重量，与营养素各列一致
+
 ## What's New (v4.6)
 • 刚开始使用？第一周里，晚间提醒会告诉你今天还缺哪一餐没记——完整记录一天，就能看到你的饮食缺什么
 • 记录更有手感：保存食物时轻轻一震，营养素达标时闪一下绿光，喝水达标时溅起水花

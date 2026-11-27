@@ -62,6 +62,10 @@ Les courbes de tendance, le bilan hebdomadaire des nutriments, la synchronisatio
 
 * Conditions d'utilisation Apple : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Corrigé : certains aliments proposaient des portions dont la quantité ne correspondait pas au poids — « 1 oz » qui pesait en réalité 4 oz —, si bien qu'en enregistrer une comptait plusieurs fois trop de nutriments
+• Export Data : la colonne « Grams » du CSV devient « Total Grams », le poids que vous avez mangé, comme les colonnes de nutriments
+
 ## What's New (v4.6)
 • Nouveau ? Pendant votre première semaine, le rappel du soir indique le repas qui manque encore aujourd'hui — un jour complet de saisie montre ce qui manque à votre alimentation
 • La saisie devient plus agréable : une légère vibration quand un aliment est enregistré, un éclat vert quand un nutriment atteint son objectif, et une éclaboussure quand vous atteignez votre objectif d'eau

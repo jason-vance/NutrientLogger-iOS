@@ -62,6 +62,10 @@ I grafici di tendenza, il controllo settimanale, la sincronizzazione con Apple S
 
 * Termini d'uso Apple: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Corretto: alcuni alimenti offrivano porzioni la cui quantità non corrispondeva al peso — "1 oz" che in realtà pesava 4 oz — e registrarne una contava molte volte più nutrienti del dovuto
+• Export Data: la colonna "Grams" del CSV ora è "Total Grams", il peso che hai mangiato, come le colonne dei nutrienti
+
 ## What's New (v4.6)
 • Sei nuovo? Nella tua prima settimana, il promemoria serale indica il pasto che ti manca ancora oggi — un giorno completo di registrazione mostra cosa manca alla tua dieta
 • Registrare è più piacevole: una leggera vibrazione quando salvi un alimento, un lampo verde quando un nutriente raggiunge l'obiettivo e uno spruzzo quando raggiungi l'obiettivo d'acqua

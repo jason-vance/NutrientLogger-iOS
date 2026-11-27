@@ -62,6 +62,10 @@ Trendgrafieken, de wekelijkse voedingscheck, Apple Gezondheid-synchronisatie, ge
 
 * Apple-gebruiksvoorwaarden: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ *
 
+## What's New (v4.6.1)
+• Opgelost: bij sommige producten klopte de hoeveelheid van een portie niet met het gewicht — "1 oz" die eigenlijk 4 oz woog — waardoor een log een veelvoud van de voedingsstoffen telde
+• Export Data: de kolom "Grams" in de CSV heet nu "Total Grams", het gewicht dat je hebt gegeten, net als de kolommen met voedingsstoffen
+
 ## What's New (v4.6)
 • Nieuw hier? In je eerste week noemt de herinnering 's avonds de maaltijd die vandaag nog ontbreekt — één volledig gelogde dag laat zien wat je voeding mist
 • Loggen voelt beter: een korte trilling als een product is opgeslagen, een groene flits als een voedingsstof haar doel haalt, en een plons als je je waterdoel bereikt
